@@ -1,0 +1,39 @@
+html body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.row {
+    margin: 8px 0px;
+}
+
+.container {
+   
+    border-radius: 34px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.row input{
+    font-size: 19px;
+    margin: 5px;
+    padding: 9px 4px;
+    border: 3px solid black;
+    border-radius: 5px;
+
+}
+
+h1{
+    font-style: italic;
+}
